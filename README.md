@@ -1,4 +1,4 @@
-#Gesture Controller - Semana JS Expert
+# Gesture Controller - Semana JS Expert
 
 ## Preview
 <img width=100% src="./initial-template/assets/demo-template-lg.gif">
